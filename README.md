@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://saludjays1502.github.io/.github/paste">
+<a href="https://mayumemi0104.github.io/.github/paste">
 <img src="https://img.shields.io/badge/GET_Paste-darkgreen?style=for-the-badge&logo=apple" alt="GET Paste">
 </a>
 </div>
